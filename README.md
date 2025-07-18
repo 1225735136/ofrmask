@@ -4,18 +4,18 @@ a mask method for monocular depth estimation using optical flow network and reco
 ## Environment Preparation
 Please refer to my [CSDN]https://blog.csdn.net/qq_42108573/article/details/131694107?spm=1001.2014.3001.5502
 or 
-conda create -n myenv python=3.7
-conda activate myenv
-pip install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
-conda install packaging
-pip install tqdm
-pip install tensorboardx
-pip install timm
-pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple 
-pip install einops
-pip install prettytable
-pip install matplotlib
-pip install future tensorboard
+conda create -n myenv python=3.7  
+conda activate myenv  
+pip install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html  
+conda install packaging  
+pip install tqdm  
+pip install tensorboardx  
+pip install timm  
+pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple   
+pip install einops  
+pip install prettytable  
+pip install matplotlib  
+pip install future tensorboard  
 ## Data Preparation
 
 Please refer to [Monodepth2](https://github.com/nianticlabs/monodepth2) to prepare your KITTI data.
