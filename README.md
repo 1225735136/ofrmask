@@ -19,7 +19,8 @@ pip install future tensorboard
 ## Data Preparation
 
 Please refer to [Monodepth2](https://github.com/nianticlabs/monodepth2) to prepare your KITTI data.
-
+## Pretrained Weights Preparation  
+[Litemono-8m-backbone]https://surfdrive.surf.nl/files/index.php/s/oil2ME6ymoLGDlL   
 ## For training the network
 
 
