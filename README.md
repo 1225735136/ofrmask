@@ -3,14 +3,11 @@ a mask method for monocular depth estimation using optical flow network and reco
 
 
 
-##Data Preparation
+## Data Preparation
 
 Please refer to Monodepth2 to prepare your KITTI data.
 
 ## For training the network
-
-
-
 
 
 
@@ -51,7 +48,7 @@ lite-mono-8m
 
 
 
-##For testing the network
+## For testing the network
 
 
 
