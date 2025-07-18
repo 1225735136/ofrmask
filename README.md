@@ -2,8 +2,8 @@
 a mask method for monocular depth estimation using optical flow network and reconstructed points
 
 ## Environment Preparation
-Please refer to my [CSDN]https://blog.csdn.net/qq_42108573/article/details/131694107?spm=1001.2014.3001.5502
-or 
+Please refer to my [CSDN]https://blog.csdn.net/qq_42108573/article/details/131694107?spm=1001.2014.3001.5502  
+or   
 conda create -n myenv python=3.7  
 conda activate myenv  
 pip install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html  
