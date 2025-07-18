@@ -6,6 +6,16 @@ a mask method for monocular depth estimation using optical flow network and reco
 
 
 For training the network
+
+
+
+
+
+
+
+
+
+
 python tain.py --data_path
 ../datasets/kitti
 --model
@@ -40,6 +50,15 @@ lite-mono-8m
 
 
 For testing the network
+
+
+
+
+
+
+
+
+
 python evaluate_depth.py --load_weights_folder
 /home/jsw/1litemono/Lite-Mono-optic_flow_central_normalize_normalize_theta_0.98/tmp/lite-mono/models/weights_29
 --data_path
