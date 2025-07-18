@@ -5,7 +5,7 @@ a mask method for monocular depth estimation using optical flow network and reco
 
 ## Data Preparation
 
-Please refer to Monodepth2[GitHub](https://github.com/nianticlabs/monodepth2) to prepare your KITTI data.
+Please refer to [Monodepth2](https://github.com/nianticlabs/monodepth2) to prepare your KITTI data.
 
 ## For training the network
 
